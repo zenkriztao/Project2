@@ -17,7 +17,7 @@
     "emoji-utils": "^1.0.1",
     "formik": "^1.5.7",
     "i18next": "^17.0.4",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "lottie-react-native": "^2.6.1",
     "moment": "^2.24.0",
     "prop-types": "^15.7.2",
